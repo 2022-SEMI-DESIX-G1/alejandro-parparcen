@@ -1,0 +1,6 @@
+[submodule "DESA9_LAB2"]
+	path = DESA9_LAB2
+	url = git@github.com:aleistrying/DESA9_LAB2.git
+[submodule "DESA9_LAB3"]
+	path = DESA9_LAB3
+	url = git@github.com:aleistrying/DESA9_LAB3.git
