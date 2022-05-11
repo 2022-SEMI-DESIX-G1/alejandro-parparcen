@@ -7,3 +7,6 @@
 [submodule "DESA9_LAB4"]
 	path = DESA9_LAB4
 	url = git@github.com:aleistrying/DESA9_LAB4.git
+[submodule "DESA9_PARCIAL2"]
+	path = DESA9_PARCIAL2
+	url = git@github.com:aleistrying/DESA9_PARCIAL2.git
