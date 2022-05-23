@@ -13,3 +13,6 @@
 [submodule "DESA9_LAB6"]
 	path = DESA9_LAB6
 	url = git@github.com:aleistrying/DESA9_LAB6.git
+[submodule "DESA9_LAB7"]
+	path = DESA9_LAB7
+	url = git@github.com:aleistrying/DESA9_LAB7.git
