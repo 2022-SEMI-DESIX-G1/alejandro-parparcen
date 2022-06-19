@@ -19,3 +19,6 @@
 [submodule "DESA9_LAB8"]
 	path = DESA9_LAB8
 	url = git@github.com:aleistrying/DESA9_LAB8.git
+[submodule "DESA9_PROY1"]
+	path = DESA9_PROY1
+	url = git@github.com:aleistrying/DESA9_PROY1.git
