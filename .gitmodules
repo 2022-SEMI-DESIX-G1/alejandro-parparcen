@@ -22,3 +22,6 @@
 [submodule "DESA9_PROY1"]
 	path = DESA9_PROY1
 	url = git@github.com:aleistrying/DESA9_PROY1.git
+[submodule "DESA9_PROY2"]
+	path = DESA9_PROY2
+	url = git@github.com:aleistrying/DESA9_PROY2.git
